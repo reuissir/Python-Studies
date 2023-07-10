@@ -1,7 +1,0 @@
-Difference between segmentation datasets and object detection datasets
-
-each pixel in an image is labeled with a category or class label
-
-goal of segmentation is to partition an image into regions, such that each region corresponds to a meaningful object or part of an object
-
-In object detection, each image is annotated with bounding boxes
